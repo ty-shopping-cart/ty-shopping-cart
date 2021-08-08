@@ -1,6 +1,5 @@
 package com.trendyol.tyshoppingcart.controller;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.trendyol.tyshoppingcart.dto.AddToCartDto;
 import com.trendyol.tyshoppingcart.dto.CartDto;
 import com.trendyol.tyshoppingcart.dto.DiscountCartDto;
